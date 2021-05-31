@@ -1,4 +1,5 @@
 # Tec.Web
-Projeto avaliativo II
+Repositório da discplina de Tecnologias Web
 
-- Repositório da discplina de Tecnologias Web
+- Projeto avaliativo II
+

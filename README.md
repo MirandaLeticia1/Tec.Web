@@ -1,4 +1,4 @@
 # Tec.Web
 Projeto avaliativo II
 
-- Implementação dos quesitos solicitados.
+- Repositório da discplina de Tecnologias Web

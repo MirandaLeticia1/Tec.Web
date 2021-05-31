@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="tomcat">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/tomcat" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/tomcat/apache-tomcat-9.0.43/webapps/docs/appdev/sample/src" />
+      <root url="file://$USER_HOME$/Downloads/tomcat/apache-tomcat-9.0.43/webapps/examples/WEB-INF/classes" />
+      <root url="file://$USER_HOME$/Downloads/tomcat/apache-tomcat-9.0.43/webapps/examples/WEB-INF/jsp/applet" />
+      <root url="file://$USER_HOME$/Downloads/tomcat/apache-tomcat-9.0.43/webapps/examples/jsp/plugin/applet" />
+      <root url="file://$USER_HOME$/Downloads/tomcat/webapps/docs/appdev/sample/src" />
+      <root url="file://$USER_HOME$/Downloads/tomcat/webapps/examples/WEB-INF/classes" />
+      <root url="file://$USER_HOME$/Downloads/tomcat/webapps/examples/WEB-INF/jsp/applet" />
+      <root url="file://$USER_HOME$/Downloads/tomcat/webapps/examples/jsp/plugin/applet" />
+      <root url="file://$USER_HOME$/Downloads/tomcat/work/Catalina/localhost/ROOT" />
+      <root url="file://$USER_HOME$/Downloads/tomcat/work/Catalina/localhost/acme" />
+      <root url="file://$USER_HOME$/Downloads/tomcat/work/Catalina/localhost/host-manager" />
+      <root url="file://$USER_HOME$/Downloads/tomcat/work/Catalina/localhost/manager" />
+    </SOURCES>
+  </library>
+</component>

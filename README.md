@@ -1,5 +1,5 @@
-# Tec.Web
-Repositório da discplina de Tecnologias Web
+# Dashboard de usuário
 
-- Projeto avaliativo II
+Projeto de Dashboard de usuário utilizando Java, JS, Hibernate, HTML e CSS.
+
 
